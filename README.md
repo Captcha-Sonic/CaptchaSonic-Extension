@@ -4,6 +4,9 @@
 
 Welcome to the official repository of **CaptchaSonic**, an advanced AI-powered CAPTCHA solver extension. Currently in **Beta**, it's **absolutely free** to use and designed to solve CAPTCHA challenges with ease.
 
+
+### DOWNLOAD : [Chrome v0.0.1](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
+
 ## 🚀 Features
 
 - **AI-Powered Solving**: Leveraging cutting-edge AI technology to solve CAPTCHA challenges.
