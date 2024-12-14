@@ -2,14 +2,30 @@
 
 # CaptchaSonic - AI CAPTCHA Solver Extension
 
-Advanced AI-powered CAPTCHA solver extension. 
+## Introducing CaptchaSonic - Your Ai-powered RPA and web unlocker solution.
 
-Currently in **Beta**, it's **absolutely free** to use and designed to solve CAPTCHA challenges with ease.
+### [DOWNLOAD for Chrome v0.0.1](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
+### [Download for Firefox: Coming soon...](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
+
+```
+Dashboard: https://my.captchasonic.com
+Website: https://captchasonic.com
+Pricing: https://my.captchasonic.com
+Telegram: https://telegram.captchasonic.com
+Discord: https://discord.captchasonic.com
+```
+- PopularCaptcha
+- reCaptcha v2
+- Aws Waf Captcha
+- BLS OCR/TEXT Captcha
+- Geetest v4 Slide (more on next udpate)
+- Universal OCR coming soon
+
+Stay tuned for more updates, please share feedback,
+we are trying to give best possible service at competitive rates.
 
 ![image](https://github.com/user-attachments/assets/e47bafb9-2b33-41a8-8a7e-828c2d7a4426)
 
-
-### DOWNLOAD : [Chrome v0.0.1](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
 
 ## 🚀 Features
 
@@ -17,8 +33,6 @@ Currently in **Beta**, it's **absolutely free** to use and designed to solve CAP
 - **Easy Integration**: Works seamlessly with websites and apps that use CAPTCHA.
 - **100% Free (Beta)**: Enjoy free usage during the beta period.
 - **Fast and Reliable**: Instant CAPTCHA solving with high accuracy.
-
-
 
 ## ⚡ How to Use
 
