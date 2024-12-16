@@ -1,9 +1,12 @@
 ![image](https://github.com/user-attachments/assets/d6db3efe-5deb-43b3-be0b-2e74d2c1fc6e)
 
-CaptchaSonic - AI CAPTCHA Solver Extension, RPA and web unlocker solution.
+### CaptchaSonic - AI CAPTCHA Solver Extension, RPA and web unlocker solution.
 
-#### [DOWNLOAD for Chrome v0.0.1](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
-#### [Download for Firefox: Coming soon...](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
+⭐ NEW UPDATE [DOWNLOAD for Chrome and Firefox v0.0.2](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) 
+
+💡 How to install on Chrome? [Guide for Chrome based browsers](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/blob/main/how_to_Install_Zip_Chrome_Extension_Guide.md)
+
+💡 How to install on Firefox? [Guide for Firefox based browsers](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/blob/main/how_to_Install_Zip_Chrome_Extension_Guide.md#loading-extensions-in-mozilla-firefox)
 
 ```
 Dashboard: https://my.captchasonic.com
@@ -22,8 +25,7 @@ Discord: https://discord.captchasonic.com
 Stay tuned for more updates, please share feedback,
 we are trying to give best possible service at competitive rates.
 
-![image](https://github.com/user-attachments/assets/e47bafb9-2b33-41a8-8a7e-828c2d7a4426)
-
+![image](https://github.com/user-attachments/assets/98749036-1285-43f5-964b-35c1896f2d88)
 
 ## 🚀 Features
 
