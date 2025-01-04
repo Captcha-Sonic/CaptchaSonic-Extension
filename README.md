@@ -25,11 +25,7 @@ Discord: https://discord.captchasonic.com
 Stay tuned for more updates, please share feedback,
 we are trying to give best possible service at competitive rates.
 
-![image](https://github.com/user-attachments/assets/98749036-1285-43f5-964b-35c1896f2d88)
-
-## 🚀 Features
-
-![image](https://github.com/user-attachments/assets/aac8c513-f9ae-4b80-a7ac-242e2e03c3bd)
+![image](https://github.com/user-attachments/assets/1b82f378-38bc-40a4-a843-4e30e512b4b9)
 
 - **AI-Powered Solving**: Leveraging cutting-edge AI technology to solve CAPTCHA challenges.
 - **Easy Integration**: Works seamlessly with websites and apps that use CAPTCHA.
