@@ -149,7 +149,7 @@ Chrome, Firefox, Edge, Brave, Opera, and any Chromium-based browser. The extensi
 <details>
 <summary><strong>How accurate is the CAPTCHA solving?</strong></summary>
 
-CaptchaSonic uses advanced AI vision models to achieve high solve rates. Accuracy varies by CAPTCHA type — hCaptcha and reCAPTCHA typically see 90%+ success rates.
+CaptchaSonic uses advanced AI vision models to achieve high solve rates. Accuracy varies by CAPTCHA type — popularCaptcha and reCAPTCHA typically see 90%+ success rates.
 </details>
 
 <details>
