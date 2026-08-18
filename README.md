@@ -1,6 +1,6 @@
 <div align="center">
 
-![CaptchaSonic Banner](https://github.com/user-attachments/assets/d6db3efe-5deb-43b3-be0b-2e74d2c1fc6e)
+<img src="sonicBanner.png" alt="CaptchaSonic" width="700">
 
 # CaptchaSonic — AI-Powered CAPTCHA Solver
 
@@ -198,6 +198,6 @@ CaptchaSonic is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ### ⚡ Try CaptchaSonic today — free AI CAPTCHA solving, zero hassle.
 
-[Download v0.3.1](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) · [Get Started](https://captchasonic.com)
+[Download v0.3.3](https://github.com/Captcha-Sonic/CaptchaSonic-Extension/releases) · [Get Started](https://captchasonic.com)
 
 </div>
