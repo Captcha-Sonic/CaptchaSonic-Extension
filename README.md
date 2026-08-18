@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 What's New in v0.3.1
+## 🚀 What's New in v0.3.3
 
 - 🔧 Improved **Geetest v4 Slide** solve accuracy with human-like drag simulation
 - 🛡️ Enhanced **reCAPTCHA** detection reliability
